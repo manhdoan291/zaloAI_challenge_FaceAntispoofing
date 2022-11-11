@@ -12,4 +12,4 @@ B5: Mỗi video lấy 30 frame ngẫu nhiên. Lấy model sẽ inference ra kế
 <br>
 Nếu số ảnh frame ngẫu nhiên liveness > số ảnh spoof thì video đó là liveness. Còn không là ngược lại
 <br>
-B6: Save kết quả video(vd :video:0 (0 là liveness) video:1(1 là spoof)) vào file csv
+B6: Save kết quả video(vd :video:0 (1 là liveness) video:1(0 là spoof)) vào file csv
